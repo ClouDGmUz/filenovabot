@@ -1,0 +1,6 @@
+.env
+bot_database.db
+*.db
+__pycache__/
+*.pyc
+*.pyo
